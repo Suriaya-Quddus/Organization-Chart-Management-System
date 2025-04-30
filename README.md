@@ -31,14 +31,22 @@ OrganizationChartProject/
 │   │   └── Worker.java
 │   └── exceptions/
 │       └── InvalidInputException.java
+│
 ├── run.bat
+│
 ├── report/
-│   ├── thesis_report_2025.docx
-│   ├── screenshots/
-│   │   ├── initial_structure.png
-│   │   ├── after_addition.png
-│   │   └── after_removal.png
+│   ├── report.pdf       
+│   ├── work_hours_log.xlsx          
+│   └── screenshots for testing/
+│       ├── Option 1.png
+│       ├── Option 2_right input.png
+│       ├── Option 2_wrong input.png
+│       ├── Option 3_right input.png
+│       ├── Option 3_wrong input.png
+│       └── Option Q.png
+│
 ├── README.md
+
 ```
 
 ## 🚀 How to Run
