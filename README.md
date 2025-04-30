@@ -77,7 +77,7 @@ See the `/report/screenshots/` folder.
 
 The detailed thesis report is available in:
 ```
-/report/thesis_report_2025.docx
+/report/report.pdf
 ```
 
 Includes:
@@ -87,5 +87,3 @@ Includes:
 - Work hours log
 
 ---
-
-Made with ❤️ for TAMK Software Engineering final project
